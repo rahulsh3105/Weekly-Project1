@@ -1,0 +1,112 @@
+nav, h3, h1, .para, button, .newHeading, img, ol, ul {
+    position: absolute;
+}
+
+h3, h1, .para, .newHeading, img, ol, ul {
+    font-family: 'Inter';
+    font-style: normal;
+}
+nav {
+    background-color: black;
+    width: 1728px;
+    height: 87px;
+    top: 0px;
+    left: 0px;
+}
+
+h3 {
+    width: 180px;
+    height: 29px;
+    left: 38px;
+    top: 8px;
+
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 29px;
+    color: white;
+}
+
+h1 {
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 90px;
+
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: black;
+}
+
+.para {
+    width: 1624px;
+    height: 400px;
+    left: 38px;
+    top: 210px;
+
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: black;
+}
+
+button {
+    width: 226px;
+    height: 58px;
+    left: 38px;
+    top: 485px;
+    background-color: black;
+}
+
+h4{
+    width: 200px;
+    height: 10px;
+    left: 87px;
+    top: 510px;
+
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 1px;
+    color: white;
+}
+
+.newHeading{
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 580px;
+
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: black;
+}
+
+img {
+    width: 729px;
+    height: 911px;
+    left: 38px;
+    top: 800px;
+    color: white;
+}
+
+ol {
+    width: 600px;
+    height: 144px;
+    left: 32px;
+    top: 1700px;
+
+    font-weight: 500;
+    font-size: 64px;
+    color: black;
+}
+
+ul {
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 2040px;
+
+    font-weight: 500;
+    font-size: 64px;
+}
